@@ -2,11 +2,11 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Краткая информация о данных) 
+[2. Какой кейс решаем?](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Краткая-информация-о-данных). 
 [4. Этапы работы над проектом](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Результаты) 
-[6. Выводы](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Выводы) 
+[5. Результаты](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Результаты:) 
+[6. Выводы](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Выводы:) 
 
 
 ### Описание проекта    
@@ -19,7 +19,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Оглавление)
 
-###  Краткая информация о данных
+### Краткая информация о данных
 В наборе данных содержится информация о 377 000 объектах недвижимости, представленных на рынке недвижимости США. Эти данные были извлечены из системы MLS (мультилистинг) США. Данные представляют собой реальную информацию и не подвергались предварительной обработке, поэтому включают различные пропуски, дубликаты, ошибки ввода и другие несоответствия. Подробное описание признаков в наборе данных можно найти в начале соответствующего ноутбука.
 
 :arrow_up:[к оглавлению](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Оглавление)
