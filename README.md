@@ -6,8 +6,8 @@
 2. [Какой кейс решаем?](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Какой-кейс-решаем?)
 3. [Краткая информация о данных](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Этапы-работы-над-проектом) 
-5. [Результаты](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Результаты:)
-6. [Выводы](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Выводы:)
+5. [Результаты:](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Результаты:)
+6. [Выводы:](https://github.com/Lily-8991/concluding_project/blob/main/README.md#Выводы:)
 
 
 ### Описание проекта    
